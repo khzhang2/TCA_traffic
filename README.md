@@ -8,16 +8,20 @@ Create folders "result2168", "result2178", "result2206", "result2210". Then you 
 
 ## Results
 
-Training set after 2000 epoches: 
+### Training set after 2000 epoches: 
+
 ![image](train_.png)
 
-Loss:
+### Loss:
+
 ![image](loss_.png)
 
-Testing restults:
+### Testing restults:
 
 Weekends:
+
 ![image](test_weekends.png)
 
 Weekdays:
+
 ![image](test_weekdays.png)
